@@ -1,0 +1,1 @@
+type AccountName = u64;
